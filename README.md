@@ -6,7 +6,11 @@
 
 Who-Am-I
 
-Pentester eWPTXv2, eCPPTv2,eWPT, IBM security
+Pentester at Beehakers
+
+eCPTXv2 | eWPTXv2 | eCPPTv2 | eWPT | IBM security | Python 
+
+
 Extreme web pentester. Vulnerability test for websites, apps and networks. TOP quality at freelance prices.
 
 José Luis Íñigo Blasco
