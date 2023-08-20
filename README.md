@@ -3,7 +3,7 @@ Who-Am-I
 
 Red Team at Beehakers
 
-OSCP | eCPTXv2 | eWPTXv2 | eCPPTv2 | eWPT | IBM security | Python 
+OSCP | CRTO | eCPTXv2 | eWPTXv2 | eCPPTv2 | eWPT | IBM security | Google Python 
 
 
 Extreme web pentester. Vulnerability test for websites, apps and networks. TOP quality at freelance prices.
