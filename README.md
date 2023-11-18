@@ -25,4 +25,6 @@ José Luis Íñigo Blasco
 ### Awards and Recognition
 
 
-<img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/powned2.png"/>
+<img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png"/>
+<img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/coursespowned.png"/>
+
