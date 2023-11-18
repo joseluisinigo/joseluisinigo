@@ -1,5 +1,7 @@
 
-Who-Am-I
+### Who-Am-I 
+
+You can learn more about me at https://joseluisinigo.work
 
 Red Team at Beehakers
 
@@ -11,8 +13,11 @@ Extreme web pentester. Vulnerability test for websites, apps and networks. TOP q
 José Luis Íñigo Blasco
 
 ### Area of Expertise:-
--Penetration Testing & Red Teaming<br/>
-
+- Penetration Testing & Red Teaming
+- Systems administrator
+- Web development, WPO and SEO
+- Defensive cybersecurity: Incident response, log monitoring, backups, edrs, firewalls...
+​
 
 
 ### Achievements:-
