@@ -1,72 +1,87 @@
+# ⚡ Senior Systems Architect | Cybersecurity & Advanced Robotics
 
-### Who-Am-I 
+## **Strategic Technical Lead | OSCP & CRTO Certified | +15 Years Industrial Experience**
 
-## Cybersecurity & DevSecOps Engineer  
-
-### 🔹 About Me  
-With over **15 years of experience** in cybersecurity and DevSecOps, I specialize in:  
-- **Penetration testing** for web applications, APIs, mobile platforms, and cloud security.  
-- **Secure software development**, following OWASP Top 10 and best practices.  
-- **CI/CD security**, automating security testing with GitLab CI/CD.  
-- **Network & infrastructure security**, securing Linux systems, VPNs, and cloud environments.  
-- **Reverse engineering & security research**, analyzing software for vulnerabilities.  
-
-I am passionate about **improving security in DevOps pipelines**, developing tools, and contributing to **open-source security projects**.  
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Senior%20Architect-black?style=for-the-badge&logo=opsgenie" />
+  <img src="https://img.shields.io/badge/Expertise-Security%20|%20Robotics%20|%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-ROS2%20|%20Docker%20|%20C++-orange?style=for-the-badge" />
+</p>
 
 ---
 
-## 🔍 Areas of Expertise  
-- **Penetration Testing** – Web, API, Mobile, Cloud & Network Security  
-- **DevSecOps** – GitLab CI/CD, Secure Automation, Compliance  
-- **Cloud Security** – Securing cloud infrastructures & enforcing best practices  
-- **Red Teaming & Ethical Hacking** – Adversary simulation & threat modeling  
-- **Reverse Engineering & Malware Analysis** – Binary analysis & vulnerability research  
-- **Secure Software Development** – OWASP, Secure SDLC, API Security  
-- **Network Security** – Hardening Linux, VPN Security, Firewalls  
-- **Security Research & Open-Source Contributions**  
+### 🚀 Professional Executive Summary
+Ingeniero Senior con más de 15 años de trayectoria liderando la arquitectura y seguridad de sistemas complejos. Mi enfoque integra la **Ciberseguridad Ofensiva de Élite** con la **Robótica Industrial de Vanguardia**. 
+
+Especialista en cerrar la brecha entre el hardware crítico y el software seguro. Diseño e implemento ecosistemas completos: desde la percepción avanzada en robots móviles (**ROS2/SLAM**) hasta infraestructuras de despliegue masivo dockerizadas y blindadas bajo estándares **OSCP/CRTO**.
 
 ---
 
-## 📂 Notable Projects  
-### 🛠 **Security & DevOps Automation Tools**  
-- **[Ollama-Llama3-Tools-CSharp](https://github.com/joseluisinigo/Ollama-Llama3-Tools-CSharp)**  
-  - Integration of **Llama 3.1** with **Ollama**, enabling function calling in C#.  
-- **[BurpSuite Laboratories](https://github.com/joseluisinigo/BurpSuite-Laboratories)**  
-  - Repository of **BurpSuite labs** for web application security testing.  
+## 🔍 Core Domains of Authority
+
+### 🛡️ Cybersecurity & Mission-Critical Infrastructure
+*   **Red Teaming & Advanced Pentesting:** Auditorías manuales de alta profundidad en entornos Web, App, API y Cloud. Simulación de adversarios y modelado de amenazas.
+*   **Infrastructure Hardening:** Diseño de arquitecturas "Security-by-Design". Bastionado de sistemas Linux, despliegue de VPNs encriptadas y seguridad en el ciclo de vida del software (DevSecOps).
+*   **Vulnerability Research:** Investigación y explotación de vulnerabilidades en sistemas industriales y embebidos.
+
+### 🤖 Industrial Robotics & Digital Twins
+*   **Autonomous Navigation (ROS2):** Arquitectura de sistemas de navegación inteligente, SLAM 3D y Sensor Fusion para flotas de robots (Spot, Humanoides, Drones).
+*   **High-Fidelity Simulation:** Creación de **Digital Twins** en **NVIDIA Isaac Sim** integrando **Gaussian Splatting** para entrenamiento de IA fotorrealista.
+*   **Hardware Integration:** Despliegue en dispositivos Edge de alto rendimiento (**Nvidia Jetson Orin**, RPi) con control directo sobre PLCs y sistemas industriales.
+
+### 🐳 Enterprise DevOps & Orchestration
+*   **Immutable Infrastructure:** Dockerización avanzada para arquitecturas híbridas (**AMD64/ARM64**) garantizando despliegues idénticos en desarrollo y producción física.
+*   **Automated CI/CD:** Implementación de pipelines de nivel corporativo en GitLab CI/CD con integración nativa de pruebas de seguridad y actualizaciones OTA.
 
 ---
 
-## 🎓 Certifications  
-- **Offensive Security Certified Professional (OSCP)**  
-- **eLearnSecurity Certified Penetration Tester eXtreme (eCPTX)**  
-- **eLearnSecurity Web Application Penetration Tester eXtreme (eWPTX)**  
-- **Offensive Security Wireless Professional (OSWP)**  
-- **Certified Red Team Operator (CRTO)**  
-- **Certified Mobile Pentester (CMPEN)**  
-- **Mobile Application Penetration Tester (eMAPT)**  
-- **Certified API Security Analyst (CASA)**  
+## 📂 Industrial Project Showcases
+
+### 🛠 **Security & AI Orchestration**
+*   **[Generative AI for Robotics](https://github.com/joseluisinigo/Ollama-Llama3-Tools-CSharp)**: Arquitectura de integración de LLMs (Llama 3.1) en sistemas de control para automatización inteligente.
+*   **[Infrastructure Hardening Tools](https://github.com/joseluisinigo/linux-exploit-suggester)**: Contribuciones y desarrollo de herramientas para la escalada de privilegios y auditoría de sistemas Linux.
+
+### 🤖 **Robotics Ecosystems**
+*   **[FossFlow](https://github.com/joseluisinigo/FossFlow)**: Sistema de visualización y gestión de telemetría en tiempo real para robots industriales.
+*   **[Secure Edge Deployment](https://github.com/joseluisinigo/joseluisinigo/doctor-wordpress)**: Patrones de despliegue seguro de servicios críticos en entornos contenerizados.
 
 ---
 
-## 🚀 Tech Stack & Tools  
-- **Security Tools:** BurpSuite, Nessus, OpenVAS, Metasploit, Mimikatz, SQLmap, Zaproxy  
-- **DevSecOps & CI/CD:** GitLab CI/CD, Azure DevOps, Docker, Terraform, Ansible  
-- **Languages & Scripting:** Python, Bash, PowerShell, JavaScript  
-- **Cloud & Infrastructure:** Linux Hardening, Secure Cloud Architectures, VPN Security  
+## 🎓 Elite Credentials
+| Certification | Authority |
+| :--- | :--- |
+| **OSCP** | Offensive Security Certified Professional |
+| **CRTO** | Certified Red Team Operator |
+| **eCPTXv2** | Certified Penetration Tester eXtreme |
+| **eWPTXv2** | Web Application Penetration Tester eXtreme |
+| **eMAPT** | Mobile Application Penetration Tester |
+| **CASA** | Certified API Security Analyst |
 
 ---
 
-## 📫 Contact & Links  
-- **Website:** [joseluisinigo.work](https://joseluisinigo.work/)  
-- **GitHub:** [github.com/joseluisinigo](https://github.com/joseluisinigo)  
-- **LinkedIn:** [linkedin.com/in/joseluisinigoblasco](https://www.linkedin.com/in/joseluisinigoblasco/)  
+## 💻 Technical Stack
 
+*   **Languages:** C++, Python, Bash, JavaScript, Rust (Core focus on performance & security).
+*   **Robotics:** ROS2, NVIDIA Isaac Sim, Omniverse, SLAM, Nav2, MoveIt.
+*   **Infra:** Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, ARM64.
+*   **Security:** BurpSuite Pro, Metasploit, Nessus, SQLmap, Wireshark, Ghidra.
 
-### Achievements:-
+---
 
-### Awards and Recognition
+## 📫 Strategic Contact
+<p align="left">
+  <a href="https://joseluisinigo.work"><img src="https://img.shields.io/badge/Consultancy-joseluisinigo.work-blue?style=flat-square&logo=google-chrome"></a>
+  <a href="https://linkedin.com/in/joseluisinigoblasco"><img src="https://img.shields.io/badge/LinkedIn-Jose%20Luis%20Iñigo-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:joseluisib@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Contact-red?style=flat-square&logo=gmail"></a>
+</p>
 
+---
 
-<img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png"/>
-<img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/coursespowned.png"/>
+### 🏆 Elite Certifications & Achievements
+<p align="center">
+  <img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png" width="80%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseluisinigo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
