@@ -20,18 +20,18 @@ Especialista en cerrar la brecha entre el hardware crítico y el software seguro
 ## 🔍 Core Domains of Authority
 
 ### 🛡️ Cybersecurity & Mission-Critical Infrastructure
-*   **Red Teaming & Advanced Pentesting:** Auditorías manuales de alta profundidad en entornos Web, App, API y Cloud. Simulación de adversarios y modelado de amenazas.
+*   **Red Teaming & Advanced Pentesting:** Auditorías manuales de alta profundidad en entornos Web, App, API y Cloud. Simulación de adversarios y modelado de amenazas reales.
 *   **Infrastructure Hardening:** Diseño de arquitecturas "Security-by-Design". Bastionado de sistemas Linux, despliegue de VPNs encriptadas y seguridad en el ciclo de vida del software (DevSecOps).
 *   **Vulnerability Research:** Investigación y explotación de vulnerabilidades en sistemas industriales y embebidos.
 
 ### 🤖 Industrial Robotics & Digital Twins
 *   **Autonomous Navigation (ROS2):** Arquitectura de sistemas de navegación inteligente, SLAM 3D y Sensor Fusion para flotas de robots (Spot, Humanoides, Drones).
-*   **High-Fidelity Simulation:** Creación de **Digital Twins** en **NVIDIA Isaac Sim** integrando **Gaussian Splatting** para entrenamiento de IA fotorrealista.
+*   **High-Fidelity Simulation:** Creación de **Digital Twins** en **NVIDIA Isaac Sim** integrando **Gaussian Splatting** para entrenamiento de IA fotorrealista y validación de sistemas.
 *   **Hardware Integration:** Despliegue en dispositivos Edge de alto rendimiento (**Nvidia Jetson Orin**, RPi) con control directo sobre PLCs y sistemas industriales.
 
 ### 🐳 Enterprise DevOps & Orchestration
 *   **Immutable Infrastructure:** Dockerización avanzada para arquitecturas híbridas (**AMD64/ARM64**) garantizando despliegues idénticos en desarrollo y producción física.
-*   **Automated CI/CD:** Implementación de pipelines de nivel corporativo en GitLab CI/CD con integración nativa de pruebas de seguridad y actualizaciones OTA.
+*   **Automated CI/CD:** Implementación de pipelines de nivel corporativo en GitLab CI/CD con integración nativa de pruebas de seguridad y actualizaciones OTA (Over-the-Air).
 
 ---
 
@@ -39,7 +39,7 @@ Especialista en cerrar la brecha entre el hardware crítico y el software seguro
 
 ### 🛠 **Security & AI Orchestration**
 *   **[Generative AI for Robotics](https://github.com/joseluisinigo/Ollama-Llama3-Tools-CSharp)**: Arquitectura de integración de LLMs (Llama 3.1) en sistemas de control para automatización inteligente.
-*   **[Infrastructure Hardening Tools](https://github.com/joseluisinigo/linux-exploit-suggester)**: Contribuciones y desarrollo de herramientas para la escalada de privilegios y auditoría de sistemas Linux.
+*   **[BurpSuite Laboratories](https://github.com/joseluisinigo/BurpSuite-Laboratories)**: Repositorio de laboratorios avanzados para testing de seguridad web profesional.
 
 ### 🤖 **Robotics Ecosystems**
 *   **[FossFlow](https://github.com/joseluisinigo/FossFlow)**: Sistema de visualización y gestión de telemetría en tiempo real para robots industriales.
@@ -61,9 +61,9 @@ Especialista en cerrar la brecha entre el hardware crítico y el software seguro
 
 ## 💻 Technical Stack
 
-*   **Languages:** C++, Python, Bash, JavaScript, Rust (Core focus on performance & security).
+*   **Languages:** C++, Python, Bash, JavaScript, Rust (Focus on performance & memory safety).
 *   **Robotics:** ROS2, NVIDIA Isaac Sim, Omniverse, SLAM, Nav2, MoveIt.
-*   **Infra:** Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, ARM64.
+*   **Infra:** Docker, Kubernetes, Terraform, Ansible, GitLab CI/CD, ARM64/AMD64.
 *   **Security:** BurpSuite Pro, Metasploit, Nessus, SQLmap, Wireshark, Ghidra.
 
 ---
@@ -77,11 +77,17 @@ Especialista en cerrar la brecha entre el hardware crítico y el software seguro
 
 ---
 
-### 🏆 Elite Certifications & Achievements
+## 🏆 Elite Certifications & Achievements
 <p align="center">
-  <img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png" width="80%" />
+  <img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png?raw=true" width="90%" alt="Elite Certifications" />
 </p>
 
+---
+
+## 📊 GitHub Activities
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joseluisinigo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseluisinigo&theme=tokyonight" alt="GitHub Streak" />
 </p>
