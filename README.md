@@ -81,13 +81,3 @@ Especialista en cerrar la brecha entre el hardware crítico y el software seguro
 <p align="center">
   <img src="https://github.com/joseluisinigo/joseluisinigo/blob/main/certificationpowned.png?raw=true" width="95%" alt="Elite Certifications" />
 </p>
-
----
-
-## 📊 GitHub Intelligence
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseluisinigo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseluisinigo&theme=tokyonight" alt="GitHub Streak" />
-</p>
